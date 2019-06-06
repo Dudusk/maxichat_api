@@ -3,7 +3,7 @@
 
 Commencer par créer la base de données
 
-Nom de la base de données (MySQL) : __maxi-chat-react__
+Nom de la base de données (MySQL) : __maxi-chat__
 Puis éxecuter cette commande :
 
 ```bash

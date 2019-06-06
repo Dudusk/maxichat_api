@@ -19,7 +19,7 @@ import { MessageModule } from './components/message/message.module';
       port: 8889,
       username: 'root',
       password: 'root',
-      database: 'maxi-chat-react',
+      database: 'maxi-chat',
       entities: [__dirname + '/entity/**.entity.ts'],
       synchronize: true,
     })
